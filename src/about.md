@@ -26,7 +26,7 @@ O Juquia.Net nasceu da vontade de mostrar o que faz Juquiá ser tão especial: s
 O Juquia.Net começou como uma ideia maluca de um grupo de amigos que queria reunir as melhores histórias da cidade num só lugar. Hoje, somos um portal que conecta moradores, visitantes e curiosos, sempre com o jeitinho de Juquiá: simples, acolhedor e com um cafezinho na mão.
 
 ## Entre em Contato
-Quer mandar uma sugestão, contar um causo ou só dizer um oi? Escreva pra gente pelo [formulário de contato](/contato/). E não esqueça de seguir a gente no X @juquianet!
+Quer mandar uma sugestão, contar um causo ou só dizer um oi? Escreva pra gente pelo [formulário de contato](/contato/). E não esqueça de seguir a gente no X @juquia_net!
 
 Juquia.Net: **onde Juquiá ganha voz, riso e história.**
 
