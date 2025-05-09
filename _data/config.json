@@ -1,0 +1,44 @@
+{
+  "title": "Juquia.Net",
+  "url": "/",
+  "domain": "https://juquia.net",
+  "language": "pt-BR",
+  "logoUrl": "/_images/logo.png",
+  "search": true,
+  "showCookiesAdvice": false,
+  "cookiesAdviceText": "Cookies advice text",
+  "cookiesAdviceMoreInfoAnchor": "More Info",
+  "cookiesAdviceMoreInfoUrl": "/cookies/",
+  "googleAnalyticsID": "",
+  "footerLinks": [
+    {
+      "anchor": "Aviso legal",
+      "url": "#"
+    },
+    {
+      "anchor": "Aviso de cookies",
+      "url": "#"
+    }
+  ],
+  "navbarMenu": [
+    {
+      "anchor": "Sobre",
+      "url": "/about/"
+    },
+    {
+      "anchor": "Contato",
+      "url": "#"
+    }
+  ],
+  "navbarButtons": [
+    {
+      "anchor": "Inscreva-se",
+      "class": "is-small is-danger",
+      "url": "about"
+    }
+  ],
+  "showShareButtons": true,
+  "showDate": true,
+  "showRelatedPosts": true,
+  "relatedPostsTitle": "Relacionados"
+}
