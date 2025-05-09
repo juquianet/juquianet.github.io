@@ -10,7 +10,7 @@ permalink: /acidente-regis-bittencourt-miracatu-carreta-tomba-e-pega-fogo/
 
 # Rolê Sinistro na Régis Bittencourt em Miracatu: Carreta Tomba e Pega Fogo, Mano!
 
-**Na moral, tu não vai acreditar no que rolou na Régis Bittencourt, lá em Miracatu, na noite de ontem (07)!** Uma carreta capotou e pegou fogo no meio do túnel da Serra do Cafezal, e o bagulho ficou loco, tipo cena de filme de ação! 😱
+**Man, na moral, tu não vai acreditar no que rolou na Régis Bittencourt, lá em Miracatu, na noite de ontem (07)!** Uma carreta capotou e pegou fogo no meio do túnel da Serra do Cafezal, e o bagulho ficou loco, tipo cena de filme de ação! 😱
 
 Tava de boa, por volta das 22h24, no km 361 da pista sentido Curitiba, quando a carreta, que tava carregada de bebida (imagina a zoeira se fosse breja 🍻), deu uma tombada braba. O motorista, que não teve o nome divulgado, saiu de boa, graças a Deus, e não se machucou. Mas aí o fogo começou a comer solto, e a carga virou churrasco na pista, véi! 🔥
 
