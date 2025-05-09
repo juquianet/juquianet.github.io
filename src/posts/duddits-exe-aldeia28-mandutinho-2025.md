@@ -3,7 +3,7 @@ layout: post.njk
 title: Duddits.exe Lacrou com um Set Fodástico no Festival Aldeia28 em Mandutinho!
 tags: ['notícia', 'música eletrônica', 'duddits.exe', 'aldeia28', 'carnaval', 'psytrance']
 featuredImage: /_images/duddits.png
-date: 2025-05-09T03:00:00
+date: 2025-02-29T03:00:00
 description: Duddits.exe mandou um set insano ao vivo na Aldeia28 em Mandutinho durante o Carnaval 2025
 permalink: /duddits-exe-festival-carnaval-aldeia28-mandutinho-2025/
 ---
