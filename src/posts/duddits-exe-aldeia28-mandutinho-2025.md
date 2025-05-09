@@ -16,6 +16,6 @@ O Festival de Carnaval Aldeia28, que rolou entre 28 de fevereiro e 5 de março, 
 
 A galera que colou no Mandutinho pirou com o som, e a estrutura do evento aguentou firme mesmo com o clima doido de SP. Se tu não tava lá, corre pra ouvir o set gravado, porque o Duddits.exe representou a cena psytrance da nossa quebrada de um jeito que é só orgulho! 🎧
 
-https://soundcloud.com/duddits_exe/dudditsexe-aldeia28-2025
+[https://soundcloud.com/duddits_exe/dudditsexe-aldeia28-2025](https://soundcloud.com/duddits_exe/dudditsexe-aldeia28-2025)
 
 #DudditsExe #Aldeia28 #PsytranceNaVeia #MandutinhoTáOn #Carnaval2025
