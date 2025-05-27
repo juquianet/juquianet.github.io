@@ -1,7 +1,7 @@
 ---
 layout: post.njk
 title: Primeira-dama de Juquiá Cola no Lançamento do SuperAção SP e Traz Novidade pra Quebrada!
-tags: ['notícia', 'social', 'superacao sp', 'juquiá', 'capacitação']featuredImage: /_images/superacao-sp-juquia-2025-lg.webp
+tags: ['notícia', 'social', 'superacao sp', 'juquiá', 'capacitação']featuredImage: /_images/primeira-dama-de-juquia-participa-de-lancamento-de-programa-do-governo-do-estado-de-sp-superacao-sp-lg.webp
 date: 2025-05-21T03:00:00
 description: Lançamento do programa SuperAção SP teve a primeira-dama de Juquiá trazendo cursos pra galera
 permalink: /superacao-sp-juquia-lancamento-2025/
