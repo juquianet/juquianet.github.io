@@ -16,6 +16,11 @@ Os objetos, descritos como discos de 30 cm de diâmetro com gravuras geométrica
 
 A Dra. Lívia Torres, arqueóloga da Universidade do Vale, foi chamada para examinar os artefatos e ficou perplexa. “Não se assemelham a nada conhecido na história humana. A composição metálica é diferente de qualquer liga terrestre que já estudamos. Estamos enviando amostras para laboratórios em São Paulo, mas, por enquanto, todas as hipóteses estão na mesa – inclusive a extraterrestre.”
 
+<video controls autoplay muted width="100%" style="max-width: 600px; margin: 20px 0;">
+  <source src="/_images/ufo1.mp4" type="video/mp4">
+  Seu navegador não suporta a reprodução de vídeos.
+</video>
+
 A descoberta já está causando um alvoroço nas redes sociais, com a hashtag #OVNIJuquiá trending no X e vídeos amadores dos objetos acumulando milhares de visualizações. Moradores relatam avistamentos de luzes estranhas no céu nas últimas semanas, e alguns juram que ouviram “zumbidos” vindos da mata próxima ao rio. “Eu sempre soube que Juquiá tinha algo especial. Agora o mundo vai saber!” exclamou dona Rosa, dona de uma vendinha local, que já vende camisetas com estampas de ETs.
 
 A prefeitura de Juquiá emitiu uma nota pedindo calma e alertando contra a invasão de áreas privadas para “caçar aliens”. Enquanto isso, a polícia reforçou a segurança no local da descoberta, que foi isolado. Um grupo de ufólogos de Santos já anunciou uma expedição à cidade para o fim de semana, prometendo “revelações bombásticas”.
@@ -23,3 +28,4 @@ A prefeitura de Juquiá emitiu uma nota pedindo calma e alertando contra a invas
 Seja um hoax elaborado, um tesouro arqueológico ou, quem sabe, uma relíquia de outro mundo, uma coisa é certa: Juquiá nunca esteve tão no centro das atenções. O *Jornal do Vale* seguirá acompanhando o caso e trará atualizações assim que novas informações surgirem. Fique ligado!
 
 #fakenews : É lógico que se você é de Juquiá, já sabe que é fake!
+
